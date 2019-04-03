@@ -1,7 +1,7 @@
-1. Discrete Mathematics for Computer Science</br>
+1. Krakatoa: The Day the World Exploded</br>
                 <a href="https://github.com/manjunath5496/Geology-Books/blob/master/geo1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-2. Discrete Mathematics: Elementary and Beyond</br>
+2. Principles of Geology: Being an Inquiry How Far the Former Changes of the Earth's Surface Are Referable to Causes Now in Operation</br>
                 <a href="https://github.com/manjunath5496/Geology-Books/blob/master/geo2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 3. A First Course in Discrete Mathematics</br>
